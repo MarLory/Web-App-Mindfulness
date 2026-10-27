@@ -1,8 +1,13 @@
 Web App Mindfulness 
 
 Una web app semplice e leggera per praticare la mindfulness a casa, da soli, con una voce guida che accompagna in ogni momento della pratica.
+App pensata per smartphone. Per la migliore esperienza apri il link dal cellulare. Se la apri dal computer, puoi simulare la vista mobile.
 
-Prova l'app online: 
+Prova l'app online: https://web-app-mindfulness-4mrn.vercel.app/
+
+
+<img width="501" height="707" alt="Screenshot 2026-10-27 alle 23 46 41" src="https://github.com/user-attachments/assets/671d3205-f833-4f98-a395-b118fb6e4991" /> 
+
 
 Perché l'ho creata?
 
