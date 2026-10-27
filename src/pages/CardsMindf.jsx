@@ -24,7 +24,7 @@ const cardData = [
 
     {
         title:"Pratica della montagna",
-        src: medidate,
+        src: meditate,
         alt:"Ragazzo che medita in mezzo alla natura",
         link:"/cardspage/mountain-card"
     },
