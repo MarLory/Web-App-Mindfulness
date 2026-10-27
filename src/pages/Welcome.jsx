@@ -2,7 +2,7 @@ import "../App.css"
 import Button from "../components/atoms/Button";
 import IconMoonSun from "../components/atoms/IconMoonSun";
 import Title from "../components/atoms/Title";
-import logo from "..assets/media/Logo.png";
+import logo from "../assets/media/Logo.png";
 
 export default function Welcome() {
 
