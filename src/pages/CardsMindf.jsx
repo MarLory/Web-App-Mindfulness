@@ -1,5 +1,8 @@
 import HeaderCards from "../components/atoms/molecules/organisms/HeaderCards";
 import ArticlesCard from "../components/atoms/molecules/organisms/ArticlesCard";
+import relax from '../assets/media/relax.jpg'
+import meditation from '../assets/media/meditation.jpg'
+import meditate from '../assets/media/meditate.jpg'
 
 export default function CardsMindf() {
     
@@ -7,21 +10,21 @@ const cardData = [
 
     {
         title:"Pratica sul respiro",
-        src:"./src/assets/media/relax.jpg",
+        src: relax,
         alt:"Sassi sulla spiaggia",
         link:"/cardspage/breath-card"
     },
 
     {
         title:"Body Scan",
-        src:"./src/assets/media/meditation.jpg",
+        src: meditation,
         alt:"Donna in meditazione in un prato",
         link:"/cardspage/body-card"
     },
 
     {
         title:"Pratica della montagna",
-        src:"./src/assets/media/meditate.jpg",
+        src: medidate,
         alt:"Ragazzo che medita in mezzo alla natura",
         link:"/cardspage/mountain-card"
     },
