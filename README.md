@@ -1,12 +1,39 @@
-# React + Vite
+Web App Mindfulness 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una web app semplice e leggera per praticare la mindfulness a casa, da soli, con una voce guida che accompagna in ogni momento della pratica.
 
-Currently, two official plugins are available:
+Prova l'app online: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Perché l'ho creata?
 
-## Expanding the ESLint configuration
+Pratico la mindfulness da diverso tempo. La pratica di gruppo è più facile da seguire, mentre a casa, da soli, le distrazioni sono molte. Ho creato quest'app per avere una guida sempre a disposizione e semplice da usare.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cosa si può fare?
+
+L'app offre tre tipi di pratica guidata:
+
+Respiro: concentrarsi sul respiro per ritrovare calma e attenzione.
+Body scan: portare l'attenzione alle diverse parti del corpo.
+Montagna: la meditazione della montagna, basata sull'immagine di stabilità e calma.
+
+Basta cliccare sul riquadro della pratica scelta: si apre una pagina dedicata e, premendo play, parte la voce guida che accompagna per tutta la durata della meditazione.
+
+Le voci guida sono registrate da me. In questa versione dimostrativa le tracce sono brevi estratti, inseriti per mostrare come funziona l'app: le pratiche complete possono essere aggiunte in seguito.
+
+Tema diurno e notturno
+
+L'app ha due temi, chiaro e scuro, pensati per adattarsi al momento della giornata e favorire un'atmosfera più raccolta.
+
+Tecnologie usate
+React
+Vite
+Tailwind CSS
+
+
+Nota:
+
+Quest'app è un supporto per la pratica personale e non sostituisce un percorso con un professionista.
+
+Autrice
+
+Maria Rotiroti · Profilo GitHub
