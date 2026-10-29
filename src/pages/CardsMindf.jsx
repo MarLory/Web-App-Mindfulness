@@ -35,6 +35,7 @@ const cardData = [
     <>
     
     <HeaderCards>Pratiche di consapevolezza</HeaderCards>
+        <div className="px-4">
         {cardData.map ( (card, index) => (
 
             <ArticlesCard
