@@ -35,7 +35,7 @@ const cardData = [
     <>
     
     <HeaderCards>Pratiche di consapevolezza</HeaderCards>
-        <div className="px-4">
+        <div className="px-4"></div>
         {cardData.map ( (card, index) => (
 
             <ArticlesCard
