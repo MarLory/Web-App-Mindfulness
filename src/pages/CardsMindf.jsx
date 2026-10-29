@@ -35,7 +35,7 @@ const cardData = [
     <>
     
     <HeaderCards>Pratiche di consapevolezza</HeaderCards>
-        <div className="px-4"></div>
+        <div className="px-4">
         {cardData.map ( (card, index) => (
 
             <ArticlesCard
@@ -52,7 +52,7 @@ const cardData = [
         ) )
         
         }
-
+         </div>
     </>
 
       );
