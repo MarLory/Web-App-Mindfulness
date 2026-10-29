@@ -41,4 +41,5 @@ Quest'app è un supporto per la pratica personale e non sostituisce un percorso 
 
 Autrice
 
-Maria Rotiroti · Profilo GitHub
+Maria Rotiroti · Profilo GitHub 
+© 2026 Maria Rotiroti
